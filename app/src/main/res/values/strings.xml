@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="nameTxt">Enter Your Name:</string>
+    <string name="result">The meaning of your name is:</string>
+</resources>
